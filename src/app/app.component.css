@@ -1,0 +1,14 @@
+.navbar
+{
+    background-color: black;
+}
+.navbar-light .navbar-nav .nav-link
+{
+    color: white;
+    font-size: 16px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover
+{
+    text-decoration:solid 2px ;
+}
